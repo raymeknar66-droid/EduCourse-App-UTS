@@ -6,4 +6,4 @@ export const COLORS = {
   textPrimary: '#1C1C1E',
   textSecondary: '#8E8E93',
   accent: '#FF9500',      // Warna aksen (Oranye)
-};
+}
